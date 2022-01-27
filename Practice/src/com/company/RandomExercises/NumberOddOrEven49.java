@@ -3,7 +3,8 @@ package com.company;
 import java.util.Scanner;
 
 
-public class NumberOddOrEven49 {
+public class
+NumberOddOrEven49 {
 
     public static void main(String[] args) {
 
