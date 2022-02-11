@@ -1,0 +1,10 @@
+El ejercicio fue desarrollado con el patrón de diseñor Factory Method teniendo en cuenta la futura creación de objetos, 
+o la conexión de impresoras a la computadora, teniendo en cuenta que hay una clase padre Printer la cual delega responsablidades a las subclases.
+
+En el ejercicio se creó una clase abstracta llamada Printer, la cual heredan los dos tipos de impresoras 
+planteadas en el ejercicio, por un lado BlackWhitePrint la cual imprime unicamente a blanco y negro y representa el cartucho de todos los colores 
+como vacio; para el caso de la impresora que imprime a color y a blanco y negro, es una subclase con el nombre FullColorPrint, y tiene los atributos nombre de la impresora,
+ y colores disponibles, en este caso blackWhite y fullColor indicando que el cartucho esta lleno.
+
+Para evitar que quien se encargue de crear un tipo de impresora nueva conozca como esta compuesto el metodo internamente se creó la clase PrinterFactory con 
+su respectiva interface, eso permitiría la creación de nuevas impresoras sin afectar el comportamiento de las demás impresoras ya configuradas. 

@@ -1,0 +1,6 @@
+FactoryPrinter\Printer.class
+FactoryPrinter\Main.class
+FactoryPrinter\PrinterFactoryMethod.class
+FactoryPrinter\FullColorPrinter.class
+FactoryPrinter\BlackWhitePrinter.class
+FactoryPrinter\PrinterFactory.class
