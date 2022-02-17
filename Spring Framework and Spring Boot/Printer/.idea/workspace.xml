@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6826f4a-6d92-475e-84eb-e1652a4631ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Functional_programming/FunctionalProgramming/FunctionalProgramming/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/BlackWhitePrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/FullColorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/PrinterFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FactoryPrinter/PrinterFactoryMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
