@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6826f4a-6d92-475e-84eb-e1652a4631ce" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/Cuenta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/account/exception/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/account/model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/account/model/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/account/model/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Unit Testing with JUnit and Mockito/TestingChallenge/src/com/company/account/model/StatusAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Design_patterns/DesignPatterns/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Design_patterns/DesignPatterns/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/../../Docker/my-data-base/schemas/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printer2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../printer2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../printer2/target/classes/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../printer2/target/classes/com/company/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
