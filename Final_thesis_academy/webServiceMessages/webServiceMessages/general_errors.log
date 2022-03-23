@@ -1,2 +1,5 @@
 [2022-03-2220:13:11] [ ERROR] [GlobalExceptionHandler:20] could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
 [2022-03-2220:36:07] [ ERROR] [GlobalExceptionHandler:20] could not execute statement; SQL [n/a]; nested exception is org.hibernate.exception.DataException: could not execute statement
+[2022-03-2223:48:55] [ ERROR] [GlobalExceptionHandler:20] could not execute statement; SQL [n/a]; constraint [employees.PRIMARY]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2022-03-2223:49:54] [ ERROR] [GlobalExceptionHandler:20] could not execute statement; SQL [n/a]; constraint [employees.PRIMARY]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+[2022-03-2223:51:08] [ ERROR] [GlobalExceptionHandler:20] could not execute statement; SQL [n/a]; constraint [employees.PRIMARY]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
