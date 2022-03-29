@@ -9,7 +9,6 @@ public class WebServiceMessagesApplication {
 
 	public static void main(String[] args) {
 
-
 		PropertyConfigurator.configure("log4j.properties");
 		SpringApplication.run(WebServiceMessagesApplication.class, args);
 	}
